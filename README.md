@@ -72,3 +72,19 @@
 
 - LinkedIn: https://linkedin.com/in/your-linkedin
 - GitHub: https://github.com/Dnyaneshwar9380
+
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+</p>
+
+![](https://komarev.com/ghpvc/?username=Dnyaneshwar9380&color=blue)
+
+
