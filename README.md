@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dnyaneshwar Miragude</h1>
 
-<!--
-**Dnyaneshwar9380/Dnyaneshwar9380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">DevOps & Cloud Engineer | AWS | Docker | Kubernetes</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.E. in Computer Science (AI & ML)
+- ☁️ Learning and building projects on AWS & DevOps
+- 🐳 Interested in Docker, Kubernetes, and CI/CD
+- 🌱 Currently improving my Terraform and Kubernetes skills
+- 📫 Email: dnyaneshwarmiragude31@gmail.com
+
+---
+
+## 🛠️ Skills
+
+### Cloud
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
+
+### DevOps Tools
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- CI/CD
+
+### Version Control
+- Git
+- GitHub
+
+### Operating Systems
+- Linux
+
+### Programming & Scripting
+- Python
+- Shell Scripting
+
+### Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SSH
+
+---
+
+## 🔥 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyaneshwar9380&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar9380&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dnyaneshwar9380&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/Dnyaneshwar9380
