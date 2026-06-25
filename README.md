@@ -1,18 +1,122 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dnyaneshwar Mirgude
-============================================================================================================================================
+<h1 align="center">Hi 👋, I'm Dnyaneshwar Mirgude</h1>
 
-Aspiring DevOps & Cloud Engineer
---------------------------------
+<h3 align="center">
+DevOps & Cloud Engineer | AWS | Docker | Kubernetes | Terraform
+</h3>
 
-🚀 Passionate about building scalable and automated cloud solutions using AWS, Docker, Kubernetes, Terraform, and CI/CD. Skilled in Linux, Python, Shell Scripting, GitHub Actions, Jenkins, Git, and Networking fundamentals.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [dnyaneshwarmiragude31@gmail.com](mailto:dnyaneshwarmiragude31@gmail.com)
-
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<p align="center">
+Passionate about Cloud Computing, Automation, CI/CD, and Infrastructure as Code.
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/dnyaneshwar9380" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/dnyaneshwar-mirgude" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/dnyaneshwar_mirgude" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+## 🚀 About Me
+
+🎓 B.E. in Computer Science (AI & ML) (2026)
+
+☁️ Aspiring DevOps & Cloud Engineer
+
+🐳 Interested in Cloud Infrastructure, Containers, and Automation
+
+💡 I enjoy building automation pipelines and deploying applications on the cloud.
+
+📫 Email: dnyaneshwarmiragude31@gmail.com
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, RDS, CloudFormation, Lambda, EventBridge, DynamoDB)
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+- Docker Compose
+
+### ⚙️ CI/CD & Automation
+- GitHub Actions
+- Jenkins
+- CI/CD Pipelines
+
+### 🏗️ Infrastructure as Code
+- Terraform
+
+### 🔧 Version Control
+- Git
+- GitHub
+
+### 💻 Operating Systems
+- Linux (Ubuntu)
+
+### 👨‍💻 Programming & Scripting
+- Python
+- Shell Scripting (Bash)
+
+### 🌐 Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SSH
+- Load Balancing
+- Subnetting Basics
+
+---
+
+## 🔥 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 End-to-End CI/CD Pipeline
+✔ Dockerized Python Application
+
+✔ Automated build and deployment using GitHub Actions
+
+✔ Deployed on AWS EC2
+
+✔ Zero manual deployment process
+
+Tech Stack:
+GitHub | Docker | GitHub Actions | AWS EC2 | Linux | Python
+
+---
+
+### ☁️ AWS Cost Optimization Project
+✔ Monitored AWS resource usage
+
+✔ Reduced unnecessary cloud spending
+
+✔ Used CloudWatch and Cost Explorer
+
+Tech Stack:
+AWS | AWS Lambda | Amazon EBS | Amazon DynamoDB | Amazon CloudWatch | API Gateway | Python | Boto3            
+
+---
+
+### 🐳 Kubernetes Deployment Project
+✔ Created Deployments and Services
+
+✔ Managed Pods using kubectl
+
+✔ Implemented rolling updates
+
+Tech Stack:
+Docker | Kubernetes | YAML
+
+
+## 🤝 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/dnyaneshwar-mirgude
+
+GitHub:
+https://github.com/Dnyaneshwar9380
+
+Email:
+dnyaneshwarmiragude31@gmail.com
