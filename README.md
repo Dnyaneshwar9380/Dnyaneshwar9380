@@ -1,56 +1,119 @@
-<h1 align="center">Hi 👋, I'm Dnyaneshwar Miragude</h1>
+<h1 align="center">Hi 👋, I'm Dnyaneshwar Mirgude</h1>
 
-<h3 align="center">DevOps & Cloud Engineer | AWS | Docker | Kubernetes</h3>
+<h3 align="center">
+DevOps & Cloud Engineer | AWS | Docker | Kubernetes | Terraform
+</h3>
+
+<p align="center">
+Passionate about Cloud Computing, Automation, CI/CD, and Infrastructure as Code.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. in Computer Science (AI & ML)
-- ☁️ Learning and building projects on AWS & DevOps
-- 🐳 Interested in Docker, Kubernetes, and CI/CD
-- 🌱 Currently improving my Terraform and Kubernetes skills
-- 📫 Email: dnyaneshwarmiragude31@gmail.com
+🎓 B.E. in Computer Science (AI & ML) (2026)
+
+☁️ Aspiring DevOps & Cloud Engineer
+
+🐳 Interested in Cloud Infrastructure, Containers, and Automation
+
+🌱 Currently learning:
+- Kubernetes
+- Terraform
+- Advanced AWS Services
+- CI/CD Best Practices
+
+💡 I enjoy building automation pipelines and deploying applications on the cloud.
+
+📫 Email: dnyaneshwarmiragude31@gmail.com
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Cloud
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, CloudWatch, Auto Scaling)
 
-### DevOps Tools
+### 🐳 Containers & Orchestration
 - Docker
 - Kubernetes
-- Terraform
-- Jenkins
-- GitHub Actions
-- CI/CD
+- Docker Compose
 
-### Version Control
+### ⚙️ CI/CD & Automation
+- GitHub Actions
+- Jenkins
+- CI/CD Pipelines
+
+### 🏗️ Infrastructure as Code
+- Terraform
+
+### 🔧 Version Control
 - Git
 - GitHub
 
-### Operating Systems
-- Linux
+### 💻 Operating Systems
+- Linux (Ubuntu)
 
-### Programming & Scripting
+### 👨‍💻 Programming & Scripting
 - Python
-- Shell Scripting
+- Shell Scripting (Bash)
 
-### Networking
+### 🌐 Networking
 - TCP/IP
 - DNS
 - HTTP/HTTPS
 - SSH
+- Load Balancing
+- Subnetting Basics
 
 ---
 
 ## 🔥 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 End-to-End CI/CD Pipeline
+✔ Dockerized Python Application
+
+✔ Automated build and deployment using GitHub Actions
+
+✔ Deployed on AWS EC2
+
+✔ Zero manual deployment process
+
+Tech Stack:
+GitHub | Docker | GitHub Actions | AWS EC2
+
+---
+
+### ☁️ AWS Cost Optimization Project
+✔ Monitored AWS resource usage
+
+✔ Reduced unnecessary cloud spending
+
+✔ Used CloudWatch and Cost Explorer
+
+Tech Stack:
+AWS | Python | Boto3
+
+---
+
+### 🐳 Kubernetes Deployment Project
+✔ Created Deployments and Services
+
+✔ Managed Pods using kubectl
+
+✔ Implemented rolling updates
+
+Tech Stack:
+Docker | Kubernetes | YAML
 
 ---
 
@@ -68,23 +131,14 @@
 
 ---
 
-## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/Dnyaneshwar9380
+## 🤝 Connect With Me
 
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+LinkedIn:
+linkedin.com/in/dnyaneshwar-mirgude
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+GitHub:
+https://github.com/Dnyaneshwar9380
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
-</p>
-
-![](https://komarev.com/ghpvc/?username=Dnyaneshwar9380&color=blue)
-
-
+Email:
+dnyaneshwarmiragude31@gmail.com
