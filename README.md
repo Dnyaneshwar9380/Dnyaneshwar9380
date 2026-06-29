@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Mirgude</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer<br>
+Aspiring Cloud & DevOps Engineer<br>
 AWS | Docker | Kubernetes | Terraform | CI/CD | Github Actions | Jenkins | Linux | Git | Shell Scripting | Python 
 </h3>
 
